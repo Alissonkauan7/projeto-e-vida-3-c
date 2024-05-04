@@ -9,3 +9,8 @@ body{
     color: var(--branco); 
     font-family: 'chakra petch'; sans-serif;
 }
+
+.conteudo-principal{
+    display: flex;  
+    flex-direction: column;
+}
